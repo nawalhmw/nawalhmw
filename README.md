@@ -13,6 +13,6 @@
 
 ---
 <p align="center">
-  Number of Visitors<br>
+  ⚡ Number of Visitors ⚡<br>
   <br><img src="https://profile-counter.glitch.me/nawalhmw/count.svg" />
 </p>
